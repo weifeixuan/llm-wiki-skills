@@ -1,4 +1,4 @@
-# Second Brain（第二大脑）
+# LLM Wiki（个人知识库）
 
 一个由 LLM 维护的个人知识库，基于 [LLM Wiki 模式](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)。把原始资料丢进文件夹，让 LLM 将它们编译成结构化的 wiki，然后在 Obsidian 里浏览这一切。
 
